@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Static Badge](https://img.shields.io/badge/java)
 ![Static Badge](https://img.shields.io/badge/Java-3.13-blue?style=for-the-badge&logo=openjdk&logoColor=white&label=python%20&color=blue)
+![Static Badge](https://img.shields.io/badge/Java-3.13-green?style=flat-square&logo=python&logoColor=white&label=python&color=blue)
 
 
 
