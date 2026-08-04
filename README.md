@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align ="center> Hi, I'm Rakshitha Nikki Cheedi </h1>
 
 <!--
 **rakshithanikki16/rakshithanikki16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
