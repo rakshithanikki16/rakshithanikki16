@@ -1,4 +1,29 @@
-## <h1 align ="center> Hi, I'm Rakshitha Nikki Cheedi </h1>
+<h1 align="center">  Hi 👋, Rakshitha Nikki Cheedi </h1>
+<h3 align="center">Aspiring AI & Machine Learning Engineering | Python Developer | Tech Enthusiast</h3>
+<p align="center">
+<b>💡 "Success is the sum of small efforts, repeated day in and day out. "</b>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Student
+- 🚀 Building real-world projects
+- 📚 Always learning something new
+
+---
+
+## 🛠️ Skills & Tools
+<p>
+<img src="https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=python&logoColor=white&color=3376AB"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
 
 <!--
 **rakshithanikki16/rakshithanikki16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/java)
-![Static Badge](https://img.shields.io/badge/Java-3.13-blue?style=for-the-badge&logo=openjdk&logoColor=white&label=python%20&color=blue)
-![Static Badge](https://img.shields.io/badge/Java-3.13-green?style=flat-square&logo=python&logoColor=white&label=python&color=blue)
 
 
 
